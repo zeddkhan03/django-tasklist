@@ -49,6 +49,13 @@ This is a simple task list application built with Django that allows users to ad
 
    ```bash
     python3 manage.py test
+   
+## Screenshots
+
+<img width="1170" alt="Screenshot 2024-09-05 at 11 18 03 PM" src="https://github.com/user-attachments/assets/f16c71a2-bf8a-4290-8182-29a00790753c">
+
+<img width="1046" alt="Screenshot 2024-09-05 at 11 18 56 PM" src="https://github.com/user-attachments/assets/c0e478c5-a9a4-4cbd-875e-62c0cbf6cec5">
+
 
 ## License
   This project is licensed under the MIT License. Feel free to modify and use it for your own purposes.
