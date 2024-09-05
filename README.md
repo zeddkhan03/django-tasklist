@@ -34,12 +34,12 @@ This is a simple task list application built with Django that allows users to ad
 4. **Apply database migrations:**
 
    ```bash
-    python manage.py migrate
+    python3 manage.py migrate
 
 5. **Run the application:**
 
    ```bash
-    python manage.py runserver
+    python3 manage.py runserver
 
 6. **Access the app:**
 
@@ -48,7 +48,7 @@ This is a simple task list application built with Django that allows users to ad
 7. **To run the unit tests, use:**
 
    ```bash
-    python manage.py test
+    python3 manage.py test
 
 ## License
   This project is licensed under the MIT License. Feel free to modify and use it for your own purposes.
