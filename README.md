@@ -43,7 +43,7 @@ This is a simple task list application built with Django that allows users to ad
 
 6. **Access the app:**
 
-    Open your browser and go to `http://127.0.0.1:8000/` to view the application.
+    Open your browser and go to `http://127.0.0.1:8000/tasks/` to view the application.
 
 7. **To run the unit tests, use:**
 
