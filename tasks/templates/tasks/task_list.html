@@ -67,6 +67,11 @@
                             <option value="In Progress" {% if request.GET.status == 'In Progress' %}selected{% endif %}>In Progress</option>
                             <option value="Done" {% if request.GET.status == 'Done' %}selected{% endif %}>Done</option>
                         </select>
+                        <label>Sort by:</label>
+                        <select name="sort_by" onchange="this.form.submit()">
+                            <option value="due_date" {% if request.GET.sort_by == 'due_date' %}selected{% endif %}>Due Date</option>
+                            <option value="priority" {% if request.GET.sort_by == 'priority' %}selected{% endif %}>Priority</option>
+                        </select>
                     </div>
                 </form>
                 
